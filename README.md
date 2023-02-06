@@ -20,3 +20,6 @@ If you are a previous Python user, or if you are experiencing issues with runnin
 - ANACONDA 1 - Getting Started
 
 
+
+ /Users/ph/Library/Python/3.9/bin/jupyter-nbconvert Assignment\ 3.ipynb --to html
+
